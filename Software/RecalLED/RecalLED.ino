@@ -1,4 +1,4 @@
-//By ArchiesWorkshop
+//By ProjectAPA
 //Clock = 1MHz
 //Has been flashed setting EEPROM byte 0 to 0
 //Fuse High bits 3 has change to 1 to enable EEPROM
